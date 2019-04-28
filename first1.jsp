@@ -1,1 +1,1 @@
-<h3>Double</h1>
+Double
