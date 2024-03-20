@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T15:47:02.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Nzs9c2aShFnCgaguc_73" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T15:53:06.085Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="A175XQLHur2A4coB6Y6B" version="24.0.7" type="github">
   <diagram id="M04Omn4vCC51xdoTwMth" name="Page-1">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="TG6_gh-B4E5TnBK6OMCB-3" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;RGB&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="135.74" y="336.97" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TG6_gh-B4E5TnBK6OMCB-4" value="&lt;font color=&quot;#050505&quot; style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;Filter tags&lt;/b&gt;:&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&#39;bicycle&#39;, &#39;building&#39;, &#39;road&#39;, &#39;car&#39;, &#39;tree&#39;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TG6_gh-B4E5TnBK6OMCB-4" value="&lt;b style=&quot;color: rgb(5, 5, 5); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Filter tags&lt;/b&gt;&lt;font color=&quot;#050505&quot; style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;:&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&#39;bicycle&#39;, &#39;building&#39;, &#39;road&#39;, &#39;car&#39;, &#39;tree&#39;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="308.47" y="180" width="161.53" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TG6_gh-B4E5TnBK6OMCB-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=default;gradientColor=#1949b8;strokeColor=none;" edge="1" parent="1">
@@ -63,6 +63,12 @@
             <mxPoint x="270" y="200" as="sourcePoint" />
             <mxPoint x="300" y="200" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TG6_gh-B4E5TnBK6OMCB-9" value="&lt;b style=&quot;color: rgb(5, 5, 5); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Deterministic semantic class&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344.24" y="130" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TG6_gh-B4E5TnBK6OMCB-10" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Uncertainty&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp;semantic&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;category&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="440" y="130" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
